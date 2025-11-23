@@ -1,0 +1,7 @@
+{
+  "name": "LingoLoop - English Tutor",
+  "description": "A real-time conversational English tutor powered by Gemini Live API. Practice speaking, get instant feedback, and improve your fluency naturally.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
